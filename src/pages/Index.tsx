@@ -16,7 +16,7 @@ const GoogleIcon = () => (
 
 const Index = () => {
   const handleCTAClick = () => {
-    window.open("https://www.chesy.site/2C8F3S39/9RTWNMC/?sub1=fingoins", "_blank");
+    window.open("https://www.mz1ay3ch.com/BDPBNXB/DSKRKNC/?sub1=fingoinsu", "_blank");
   };
 
   return (
